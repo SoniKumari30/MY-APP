@@ -1,6 +1,6 @@
 //  import React from 'react' 
 
-// //npm install react-router-dom
+// npm install react-router-dom
 
 // import { BrowserRouter, Route, Link } from 'react-router-dom'
 // import Home from './components/static/Home'
