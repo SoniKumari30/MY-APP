@@ -10,7 +10,7 @@ class MoviesForm extends React.Component {
             name: '',
             watched: false 
         }
-    // }
+    }
 
      handleChange = (e) => {
         if (e.target.type == 'checkbox') {

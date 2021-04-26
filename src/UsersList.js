@@ -10,7 +10,7 @@ class UsersList extends React.Component {
             users: []
         }
     }
-// 
+
     // life cycle method - will get called only after the first render
 
     componentDidMount(){

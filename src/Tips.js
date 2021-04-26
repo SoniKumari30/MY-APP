@@ -9,7 +9,7 @@ function Tips(){
                 <li>practice more</li>
                 <li>practice Some More</li>
             </ul>
-        {/* </div> */}
+        </div>
     )
 }
 

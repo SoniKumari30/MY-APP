@@ -13,7 +13,7 @@ function MoviesList(props) {
                         }}> remove </button>
                     </li>
                 )
-            // })}
+            })}
         </ul>
     )
 }

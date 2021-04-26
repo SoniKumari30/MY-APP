@@ -8,7 +8,7 @@ class Movies extends React.Component {
             movies: [
                 { id: 1, name: 'The Godfather', watched: false },
                 { id: 2, name: 'Kill Bill', watched: true },
-                // { id: 3, name: 'Bourne Ultimatum', watched: true }
+                { id: 3, name: 'Bourne Ultimatum', watched: true }
             ]
         }
     }
