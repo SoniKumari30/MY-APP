@@ -11,7 +11,7 @@ class TaskForm extends React.Component {
             completed: false, 
             dueDate: ''
         }
-    }
+    // }
 
     handleChange = (e) => {
         this.setState({

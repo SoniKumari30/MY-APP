@@ -18,7 +18,7 @@ class Tasks extends React.Component {
             }
         })
        
-    }
+    // }
 
     componentDidMount(){
         axios.get('http://localhost:3033/tasks')
