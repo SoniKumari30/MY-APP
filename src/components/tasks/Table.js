@@ -23,7 +23,7 @@ function TasksTable(props) {
                                 <td>{ task.createdAt }</td>
                                 <td>{ task.dueDate }</td>
                                 <td>
-                                    {/* <button>remove</button> */}
+                                    <button>remove</button>
                                 </td>
                             </tr>
                         )
