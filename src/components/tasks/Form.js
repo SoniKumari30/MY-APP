@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import axios from 'axios'
 
 class TaskForm extends React.Component {
-    // constructor() {
+    constructor() {
         super()
         this.state = {
             title: '',
