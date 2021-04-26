@@ -12,7 +12,7 @@ function TasksTable(props) {
                         <th>created at</th>
                         <th>due date</th>
                         <th>actions</th>
-                    </tr>
+                    {/* </tr> */}
                 </thead>
                 <tbody>
                     { props.data.map(task => {
