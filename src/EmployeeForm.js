@@ -14,7 +14,7 @@ class EmployeeForm extends React.Component {
     handleChange = (e) => {
         this.setState({
             [e.target.name]: e.target.value 
-        })
+        // })
     }
     handlegenderChange = (gender) => {
         this.setState({gender})

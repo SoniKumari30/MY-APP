@@ -13,7 +13,7 @@ function EmployeesTable(props) {
                 </tr>
             </thead>
             <tbody>
-                {
+                {/* { */}
                     props.employees.map(function (emp) {
                         return (
                             <tr key={emp.id}>

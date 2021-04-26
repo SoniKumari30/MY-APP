@@ -8,7 +8,7 @@ class Employees extends React.Component {
         this.state = {
             employees: [
                 { id: 'emp001', name: 'abhi', email: 'abhi@gmail.com',  gender: 'male' },
-                { id: 'emp002', name: 'sahana', email: 'sahana@gmail.com',  gender: 'female' },
+                // { id: 'emp002', name: 'sahana', email: 'sahana@gmail.com',  gender: 'female' },
                 { id: 'emp003', name: 'srujan', email: 'srujan@gmail.com',  gender: 'male' },
             ]
         }
