@@ -16,7 +16,7 @@ class UserShow extends React.Component {
               const user = response.data
               this.setState({user})
           }) 
-    }//
+    }
     render(){
         console.log('user show component', this.props)
         return(
